@@ -7,7 +7,7 @@
   "keywords": [
     "javascript"
   ],
-  "author": "Lokendra Kumar",
+  "author": "Japneet Singh",
   "license": "ISC",
   "scripts": {
     "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js",
