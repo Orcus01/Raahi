@@ -92,16 +92,16 @@ npm run dev
 ### for both backend and client
 
 #### Landing Page,
-![Landing page](https://github.com/HamkerLokie/Alumni-Experience-Sharing-Platform---Raahi/blob/main/backend/gallery/homepage.png?raw=true)
+![Landing page](https://github.com/Orcus01/Raahi/blob/main/backend/gallery/homepage.png)
 
 #### Write Article Page,
-![Landing page](https://github.com/HamkerLokie/Alumni-Experience-Sharing-Platform---Raahi/blob/main/backend/gallery/write.png?raw=true)
+![Landing page](https://github.com/Orcus01/Raahi/blob/main/backend/gallery/write.png)
 
 #### Request Article Page,
-![Landing page](https://github.com/HamkerLokie/Alumni-Experience-Sharing-Platform---Raahi/blob/main/backend/gallery/request.png?raw=true)
+![Landing page](https://github.com/Orcus01/Raahi/blob/main/backend/gallery/request.png)
 
 #### Guidelines Page,
-![Landing page](https://github.com/HamkerLokie/Alumni-Experience-Sharing-Platform---Raahi/blob/main/backend/gallery/guidelines.png?raw=true)
+![Landing page](https://github.com/Orcus01/Raahi/blob/main/backend/gallery/guidelines.png)
 
 ### Routes
 ---
@@ -118,10 +118,10 @@ npm run dev
 ### Directory 
 
 [FrontEnd]
-![image](https://github.com/HamkerLokie/Alumni-Experience-Sharing-Platform---Raahi/blob/main/backend/gallery/frontend.png?raw=true)
+![image](https://github.com/Orcus01/Raahi/blob/main/backend/gallery/frontend.png)
 
 [Backend]
-![image](https://github.com/HamkerLokie/Alumni-Experience-Sharing-Platform---Raahi/blob/main/backend/gallery/backend.png?raw=true)
+![image](https://github.com/Orcus01/Raahi/blob/main/backend/gallery/backend.png)
 
 ---
 ## Contribution 
